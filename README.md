@@ -1,2 +1,4 @@
 # amogusland
-place to put files related to the Lethal Company project amogusland
+amogusland
+
+I put very minimal effort into this map.  I just thought it would be funny if I made a map to show I could do it, and I figured I'd share it.
